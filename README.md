@@ -1,1 +1,1 @@
-[linktest](https://raw.githubusercontent.com/tadfmac/main/test.html)
+[linktest](https://tadfmac.github.io/html-test/test.html)
